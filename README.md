@@ -19,13 +19,13 @@ L'obiettivo è individuare e sfruttare le debolezze presenti nel sistema per evi
 
 È possibile scaricare la presentazione e la documentazione correlata ai seguenti percorsi:
 
-- [Scarica la presentazione](./docs/StaianoCatello-Presentazione.pdf)
-- [Scarica la metodologia](./docs/StaianoCatello_Metodologia.pdf)
-- [Scarica il report](./docs/StaianoCatello_Report.pdf)
+- [Scarica la presentazione](./StaianoCatello-Presentazione.pdf)
+- [Scarica la metodologia](./StaianoCatello_Metodologia.pdf)
+- [Scarica il report](./StaianoCatello_Report.pdf)
 
 ---
 
-## 🧾 Come ottenere la documentazione
+## Come ottenere la documentazione
 
 La documentazione è disponibile direttamente all'interno della repository.  
 Per scaricarla localmente, esegui:
